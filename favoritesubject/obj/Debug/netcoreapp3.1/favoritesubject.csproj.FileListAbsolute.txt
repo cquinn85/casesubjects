@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.exe
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.deps.json
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.runtimeconfig.json
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.runtimeconfig.dev.json
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.dll
+C:\Users\cequi\repos\favoritesubject\favoritesubject\bin\Debug\netcoreapp3.1\favoritesubject.pdb
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.csprojAssemblyReference.cache
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.AssemblyInfo.cs
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.dll
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.pdb
+C:\Users\cequi\repos\favoritesubject\favoritesubject\obj\Debug\netcoreapp3.1\favoritesubject.genruntimeconfig.cache
